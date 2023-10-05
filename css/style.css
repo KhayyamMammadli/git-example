@@ -14,9 +14,6 @@ div {
   height: 300px;
   margin-top: 30px;
   background-color: antiquewhite;
-  font-size: 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center; }
+  display: flex; }
 
 /*# sourceMappingURL=style.css.map */
